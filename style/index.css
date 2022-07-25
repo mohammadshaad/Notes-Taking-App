@@ -81,6 +81,11 @@ hr {
     justify-content: space-between;
   }
   
+  .hero-txt {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  
   .hero-h1 {
   font-size: 70px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
